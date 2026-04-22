@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there, I'm Tawanda 👋
 
-<!--
-**Tmkandawire/Tmkandawire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer | System Design | Building Scalable Digital Systems
 
-Here are some ideas to get you started:
+I’m an IT professional with 6+ years of experience supporting enterprise infrastructure and financial systems, now focused on backend engineering and full-stack development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+- Backend: Node.js, Express, PostgreSQL
+- Frontend: React
+- DevOps: Docker, CI/CD 
+- Tools: Git, REST APIs, System Design
+
+## 🚀 Current Focus
+
+- Building real-world full-stack systems
+- Designing scalable backend architectures
+- Expanding into cloud and DevOps
+
+## 📌 Featured Projects
+
+- Hip Hop Foundation Platform — Full-stack CMS for a non-profit
+- Transporters Association Platform — Multi-user logistics system (in progress)
+
+## 📫 Contact
+
+- Email: tawamk1@gmail.com
