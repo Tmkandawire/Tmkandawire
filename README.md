@@ -11,18 +11,18 @@ I’m an IT professional with 6+ years of experience supporting enterprise infra
 - DevOps: Docker, CI/CD 
 - Tools: Git, REST APIs, System Design
 
-## 🚀 Current Focus
-
-- Building real-world full-stack systems
-- Designing scalable backend architectures
-- Expanding into cloud and DevOps
-
 ## 🧠 Engineering Focus
 
 - Designing scalable REST APIs
 - Building production-ready backend systems
 - Database design and performance optimization
 - Authentication and secure system design
+
+## 🚀 Current Focus
+
+- Building real-world full-stack systems
+- Designing scalable backend architectures
+- Expanding into cloud and DevOps
 
 ## 📌 Featured Projects
 
