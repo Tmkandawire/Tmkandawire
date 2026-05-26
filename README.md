@@ -1,6 +1,6 @@
 ## Tawanda Mkandawire 
 
-Backend Engineer | System Design | Building Scalable Digital Systems
+Fullstack Engineer | Backend Engineer | System Design | Building Scalable Digital Systems
 
 I’m an IT professional with 6+ years of experience supporting enterprise infrastructure and financial systems, now focused on backend engineering and full-stack development.
 
